@@ -1,0 +1,2 @@
+konceptualni model
+logicki model
